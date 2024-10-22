@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -IC:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\emptytest.dir\\Src\\main.c.obj -c C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\main.c",
+  "file": "C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\main.c",
+  "output": "CMakeFiles\\emptytest.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -IC:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\emptytest.dir\\Src\\syscall.c.obj -c C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\syscall.c",
+  "file": "C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\syscall.c",
+  "output": "CMakeFiles\\emptytest.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -IC:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\emptytest.dir\\Src\\sysmem.c.obj -c C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\sysmem.c",
+  "file": "C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Src\\sysmem.c",
+  "output": "CMakeFiles\\emptytest.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -IC:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest -O3 -DNDEBUG -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g0 -o CMakeFiles\\emptytest.dir\\Startup\\startup_stm32f411ceux.s.obj -c C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Startup\\startup_stm32f411ceux.s",
+  "file": "C:\\Users\\Aluno\\Documents\\ELT73A-LAB02\\ELT73A-LAB02\\emptytest\\Startup\\startup_stm32f411ceux.s",
+  "output": "CMakeFiles\\emptytest.dir\\Startup\\startup_stm32f411ceux.s.obj"
+}
+]

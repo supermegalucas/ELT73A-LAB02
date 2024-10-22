@@ -1,0 +1,3 @@
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/debug/CMakeFiles/emptytest.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/emptytest/build/debug/CMakeFiles/rebuild_cache.dir
