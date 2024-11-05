@@ -1,0 +1,5 @@
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/ELT73A-LAB02/CUBEMXTEST/build/Debug/CMakeFiles/CUBEMXTEST.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/ELT73A-LAB02/CUBEMXTEST/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/ELT73A-LAB02/CUBEMXTEST/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/ELT73A-LAB02/CUBEMXTEST/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/ELT73A-LAB02/ELT73A-LAB02/ELT73A-LAB02/CUBEMXTEST/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
